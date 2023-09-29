@@ -1,5 +1,10 @@
 /**
- * array object create using array constructor
+ * array constructor
+ * new Array();
+ */
+
+/**
+ * array constructor working like creating array object
  */
 
 const ary = new Array(
