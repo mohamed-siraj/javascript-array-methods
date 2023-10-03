@@ -1,4 +1,5 @@
 /**
+ * concat() method
  * array concat working like this to merge two or more arrays 
  * Array.concat()
  */

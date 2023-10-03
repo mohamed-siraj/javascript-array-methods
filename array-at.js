@@ -1,5 +1,5 @@
 /**
- * At method
+ * At() method
  * array.At();
  */
 

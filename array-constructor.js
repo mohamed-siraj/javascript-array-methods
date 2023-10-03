@@ -1,4 +1,5 @@
 /**
+ * () constructor
  * array constructor
  * new Array();
  */
